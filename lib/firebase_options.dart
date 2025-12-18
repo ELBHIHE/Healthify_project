@@ -27,7 +27,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCDcl-fpYhF7EOqvooLNAnNKy2WqYh_R78',
+    apiKey: 'your api key',
     appId: '1:88851727930:android:be683f47d956b0aca31703',
     messagingSenderId: '88851727930',
     projectId: 'healthify-3e66e',
@@ -52,3 +52,4 @@ class DefaultFirebaseOptions {
     storageBucket: 'healthify-3e66e.firebasestorage.app',
   );
 }
+
